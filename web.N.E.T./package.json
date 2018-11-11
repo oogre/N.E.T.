@@ -1,0 +1,28 @@
+{
+  "name": "chatScreen",
+  "private": true,
+  "scripts": {
+    "start": "meteor run",
+    "test": "meteor test --once --driver-package meteortesting:mocha",
+    "test-app": "TEST_WATCH=1 meteor test --full-app --driver-package meteortesting:mocha",
+    "visualize": "meteor --production --extra-packages bundle-visualizer"
+  },
+  "dependencies": {
+    "@babel/runtime": "7.0.0-beta.55",
+    "bufferutil": "^4.0.0",
+    "meteor-node-stubs": "^0.4.1",
+    "p5": "^0.7.2",
+    "puppeteer": "^1.8.0",
+    "react": "^16.5.0",
+    "react-dom": "^16.5.0",
+    "utf-8-validate": "^5.0.1"
+  },
+  "meteor": {
+    "mainModule": {
+      "client": "client/main.js",
+      "server": "server/main.js"
+    },
+    "testModule": "tests/main.js"
+  },
+  "devDependencies": {}
+}

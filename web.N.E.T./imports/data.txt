@@ -1,0 +1,61 @@
+<div class="chat clearfix detected-un gold" data-username="pontaise" data-messagekey="chat_message_1537886567589">
+	<div class="chatAvatar">
+		<img width="40" src="/avatar/user/60x60/pontaise.jpg">
+	</div>
+	<div class="messageLine">
+		<img class="badge" src="https://cam4-images.xcdnpro.com/319ca096-a2f3-4485-82b1-55bbc400fe53.jpg">
+		<p class="nickName">
+			<a target="_blank" href="/pontaise">pontaise</a>
+			<span class="tipLeaderIcon tipLeaderIcon_pontaise" style=""></span>
+		</p>
+		<div class="chatOptions contextualMenu" data-user="pontaise">
+			<span class="glyphicon glyphicon-option-vertical"></span>
+		</div>
+		<p>
+			<span>
+				ici on baise à l\'aise !  
+			</span>
+		</p>
+	</div>
+</div>
+
+
+<div class="chat clearfix generalNotification">
+	<span class="">
+		<img class="badge" src="https://cam4-images.xcdnpro.com/319ca096-a2f3-4485-82b1-55bbc400fe53.jpg" alt="badge">
+		membre du Fan Club dan2013 est entré dans le chat
+	</span>
+</div>
+
+
+<div class="chat clearfix generalNotification">
+	<span class="glyphicon glyphicon-usd tipIcon"></span>
+	LeonKing33 a touché Laeti34  
+	<span class="tokensAmount">
+		(2 tokens)
+	</span>
+</div>
+
+<div class="chat clearfix generalNotification">
+	<span>
+		tintin170 a acheté "a cheval renversé ... " dans la boutique de joliecoeurxc!
+	</span>
+</div>
+
+fakeWhite
+	fakeWrap
+		fakeWrapInner
+			profileCamWrap
+				camPaneBig
+					broadcastingApp
+						iosWrap
+							firebasePrivateShow : display block | none
+							firebaseReturningIn : display block | none
+							firebasePausedShow
+							firebaseGroupShow
+							containerFirebase
+								chat_main
+
+
+camPaneBig
+	broadcastingApp : display block | none
